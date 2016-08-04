@@ -17,8 +17,6 @@ require(['jquery', 'carousel'], function($, Carousel){
 		arrows : 'center',//center
 		speed : 1000
 	};
-
 	var carousel2 = new Carousel(settings2);
 	carousel2.init();
-
 });
